@@ -1,5 +1,7 @@
 # Project-Mars-Rovers
 
+Following the animated steps to compile the code, generate the JAR and test the program.
+
 ![Animation](https://github.com/ISMANSOURISM/Project-Mars-Rovers/assets/136995610/a3b51240-68b6-4463-b2e7-a574f22af096)
 
 A squad of robotic rovers are to be landed by NASA on a plateau on Mars.
